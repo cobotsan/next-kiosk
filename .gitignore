@@ -1,0 +1,8 @@
+.DS_Store
+email-templates/phpmailer/Exception.php
+/node_modules
+/email-templates
+/themeforest-eRb1A7i1-crafto-the-multipurpose-html5-template
+package-lock.json
+.next
+.bolt
