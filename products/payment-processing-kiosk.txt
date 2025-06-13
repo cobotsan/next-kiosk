@@ -1,6 +1,6 @@
 1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/css/a8069bef00774282.css","style"]
-0:["geRYNsEPKE2b-xtBxX9Qk",[[["",{"children":["products",{"children":[["slug","payment-processing-kiosk","d"],{"children":["__PAGE__?{\"slug\":\"payment-processing-kiosk\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a8069bef00774282.css","precedence":"next"}]],"$L4"]]]]
+0:["qW7BDkC5P29wf6JANvAVd",[[["",{"children":["products",{"children":[["slug","payment-processing-kiosk","d"],{"children":["__PAGE__?{\"slug\":\"payment-processing-kiosk\"}",{}]}]}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a8069bef00774282.css","precedence":"next"}]],"$L4"]]]]
 5:I{"id":1893,"chunks":["325:static/chunks/325-67121e2b0ed82f2b.js","724:static/chunks/724-743dc200b8a0795f.js","289:static/chunks/289-f9523fe56f0e7ced.js","49:static/chunks/49-d31b0a279ad21716.js","185:static/chunks/app/layout-05fc18c05c8de399.js"],"name":"","async":false}
 6:I{"id":1443,"chunks":["272:static/chunks/webpack-f2d219a16ad935e6.js","971:static/chunks/fd9d1056-c669e8bc31c0d484.js","864:static/chunks/864-09793197b9393742.js"],"name":"","async":false}
 7:I{"id":8639,"chunks":["272:static/chunks/webpack-f2d219a16ad935e6.js","971:static/chunks/fd9d1056-c669e8bc31c0d484.js","864:static/chunks/864-09793197b9393742.js"],"name":"","async":false}
